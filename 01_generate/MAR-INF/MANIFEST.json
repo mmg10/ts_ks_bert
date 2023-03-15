@@ -1,0 +1,11 @@
+{
+  "createdOn": "12/03/2023 14:31:38",
+  "runtime": "python",
+  "model": {
+    "modelName": "bert",
+    "serializedFile": "pytorch_model.bin",
+    "handler": "torchserve_handler.py",
+    "modelVersion": "1.0"
+  },
+  "archiverVersion": "0.7.1"
+}

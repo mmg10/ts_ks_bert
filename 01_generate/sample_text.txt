@@ -1,0 +1,1 @@
+{"text": "Bloomberg is bad", "target": 3}
